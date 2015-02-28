@@ -1,1 +1,0 @@
-# phonegap_hackillinois_strapkit
